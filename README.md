@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Idriss</h1>
-<h3 align="center">A full stack dev</h3>
+<h2 align="center">A full stack developer</h2>
 
 - 🌱 I’m currently learning **React and Spring boot**
 
