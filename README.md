@@ -3,12 +3,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=%235533F7&size=22&center=true&vCenter=true&lines=Hi+there!+I'm+Idriss+;A+self+taught+web+developer">
 </p>
 
-- 🌱 I’m currently learning **React and Spring boot**
-
-- 💬 Ask me about **Django**
-
-- 📫 How to reach me **dihratene@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@fieldshealing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@fieldshealing" height="30" width="40" /></a>
