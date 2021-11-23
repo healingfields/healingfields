@@ -1,6 +1,6 @@
 [<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://readme-typing-svg.herokuapp.com?font=roboto&color=%235533F7&size=22&center=true&vCenter=true&lines=Hi+there!+I'm+Idriss+;A+self+taught+web+developer"></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=roboto&color=%235533F7&size=22&center=true&vCenter=true&lines=Hi+there!+I'm+Idriss+;A+self+taught+web+developer">
 </p>
 
 - 🌱 I’m currently learning **React and Spring boot**
